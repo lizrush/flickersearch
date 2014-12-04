@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6E5537BB1A30132C0000913D /* OrderedDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5537BA1A30132C0000913D /* OrderedDictionary.swift */; };
 		C9666D90195717D3004CD98B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9666D8F195717D3004CD98B /* AppDelegate.swift */; };
 		C9666D92195717D3004CD98B /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9666D91195717D3004CD98B /* MasterViewController.swift */; };
 		C9666D94195717D3004CD98B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9666D93195717D3004CD98B /* DetailViewController.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6E5537BA1A30132C0000913D /* OrderedDictionary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderedDictionary.swift; sourceTree = "<group>"; };
 		C9666D8A195717D3004CD98B /* FlickrSearch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlickrSearch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9666D8E195717D3004CD98B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C9666D8F195717D3004CD98B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				C9666DAE1957185D004CD98B /* Flickr.swift */,
+				6E5537BA1A30132C0000913D /* OrderedDictionary.swift */,
 				C9BBAB9219B25CC10040D82F /* JSON.swift */,
 				C9666D8F195717D3004CD98B /* AppDelegate.swift */,
 				C9666D91195717D3004CD98B /* MasterViewController.swift */,
@@ -220,6 +223,7 @@
 				C9666D94195717D3004CD98B /* DetailViewController.swift in Sources */,
 				C9BBAB9319B25CC10040D82F /* JSON.swift in Sources */,
 				C9666D92195717D3004CD98B /* MasterViewController.swift in Sources */,
+				6E5537BB1A30132C0000913D /* OrderedDictionary.swift in Sources */,
 				C9666DAF1957185D004CD98B /* Flickr.swift in Sources */,
 				C9666D90195717D3004CD98B /* AppDelegate.swift in Sources */,
 			);
